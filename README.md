@@ -13,7 +13,7 @@ The data used is sourced from IMDB.
 
 1. How many movies had at least some valid financial information (values > 0 for budget OR revenue)?(Please exclude any movies with 0's for budget AND revenue from the remaining visualizations.)
 - There are 642 movies with valid financial information.
-    ![Movies per Certification Category (2000-2001)](Images/movies00_01_per_category.png)
+    ![Number of Movies with Valid Financial Information (2000-2001)](Images/valid_financial_movies00_01.png)
     
 2. How many movies are there in each of the certification categories (G/PG/PG-13/R)?
     ![Movies per Certification Category (2000-2001)](Images/movies00_01_per_category.png)
